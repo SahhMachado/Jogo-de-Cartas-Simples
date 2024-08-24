@@ -4,12 +4,12 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" type="text/css" href="css/fim.css">
+    <link rel="stylesheet" type="text/css" href="css/final.css">
     <link rel="shortcut icon" href="img/favicon.ico" type="image/x-icon">
     <title>Jogo de Cartas</title>
     <style>
         body{
-          background-image: url("img/fundo.jpg");
+          background-image: url("img/inicio.webp");
           background-repeat: no-repeat;
           background-size: cover;
           background-attachment: fixed;
